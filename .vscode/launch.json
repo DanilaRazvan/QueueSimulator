@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimulationManager",
+            "request": "launch",
+            "vmArgs": "--module-path /home/razvan/Documents/Development/imports/javafx-sdk-11.0.2/lib --add-modules javafx.controls, javafx.fxml",
+            "mainClass": "controller.SimulationManager",
+            "projectName": "QueuesProcessing"
+        }
+    ]
+}
